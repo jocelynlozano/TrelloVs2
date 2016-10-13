@@ -1,0 +1,206 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #CD5A91 !important;
+}
+
+.banner {
+	background-color: #AF4D7B;
+	overflow: hidden;
+    padding: 5px;
+    z-index: 10;
+    height: 39px;
+}
+
+.logo {
+    top: -19px;
+    left: 18%;
+}
+
+.trellologo {
+    height: 26px;
+    margin-top: 6%;
+}
+
+.iconoytableros {
+	background-color: #C782A2;
+	height: 30px;
+	right: 0.8%;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.edicionletrasbanner {
+	margin-top: 4%;
+}
+
+.iconosolo {
+	background-color: #C782A2;
+	border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-right: 52px;
+    min-width: 30px;
+}
+.uno {
+    margin-left: 73px;
+}
+
+.dos {
+    margin-left: 147px;
+}
+
+.tres {
+	margin-left: 390px;
+}
+
+.campana {
+	margin-left: 22%;
+}
+
+.info {
+	margin-left: 20%;
+}
+
+.mas {
+	margin-left: 21%;
+}
+
+.letras {
+	border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 3%;
+}
+
+.cajanombre {
+	background-color: #C782A2;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	line-height: 30px;
+    margin-right: 43px;
+	min-width: 149px;
+    margin-left: 122%;
+}
+
+.cajainiciales {
+	background-color: #D6DADC;
+	border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+	line-height: 30px;
+    margin-right: 52px;
+	min-width: 40px;
+    margin-left: 388%;
+}
+
+.letrasblack {
+    color: black;
+    font-size: 18px;
+    margin-left: 12%;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.form {
+    background-color: #E2E4E6;
+    /* width: 145%; */
+    /* height: 140px; */
+    /* padding-top: 5%; */
+    /* padding-left: 2%; */
+    margin-left: -19px;
+    border-radius: 2.5%;
+    /* margin-top: 2%; */
+}
+
+.textoInput {
+    margin: 2%;
+    padding: 5%;
+}
+
+.estilodeboton {
+    background-color: #5FB84C;
+    color:#FFFFFF;
+    border-radius: 5px;
+    margin-left: 2%;
+    cursor: pointer;
+    display: inline-block;
+    padding: 6px 11px;
+    font-family: 'Patua One', cursive;
+}
+
+div form .anadirtarjeta {
+    margin-left: 3%;
+ }
+
+ .ediciontexto {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Helvetica;
+    margin-top: 6%;
+ }
+
+.star {
+    color: #EAD600;
+    font-weight: bold;
+    margin-left: 9%;
+}
+
+.starcaja {
+    margin-left: -24%;
+    margin-top: 3%;
+    padding: 2%;
+    background-color: #B85182;
+    width: 13%;
+    border-radius: 3px;
+}
+
+.ojocaja {
+    font-weight: bold;
+    margin-left: 7%;
+    margin-top: -12%;
+}
+
+.enblanco {
+    margin-left: -12%;
+    margin-top: 5%;
+    padding: 4%;
+    background-color: #B85182;
+    border-radius: 3px;
+    color: #fff;
+ 
+}
+
+.none {
+    display: none;
+}
+
+.anadirtarjeta {
+    background-color: #AF4D7B;
+    
+    color: #E4BED0;
+    font-family: Helvetica;
+}
+
+.block {
+    display: block;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.subContenedor{
+    vertical-align: top;
+}
